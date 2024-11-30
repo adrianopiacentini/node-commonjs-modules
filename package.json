@@ -1,0 +1,16 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "startNames": "node names.js",
+    "devNames": "node --watch names.js",
+    "startHobbies": "node hobbies.js",
+    "devHobbies": "node --watch hobbies.js",
+    "startApp": "node app.js",
+    "devApp": "node --watch app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
